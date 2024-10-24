@@ -7,17 +7,17 @@ A gallery of designs for select archived projects, especially if they are still 
 ### go to [current designs](/current/)
 
 ## array ink
-![](arrayink.png" ){ width=50% }
-![](arrayinkabout.png" ){ width=50% }
+![](arrayink.png){ width=50% }
+![](arrayinkabout.png){ width=50% }
 
 ## this is our thing &bull; live at [kingdra.net/em](https://kingdra.net/em/)
-![](em1.png" ){ width=50% }
-![](em2.png" ){ width=50% }
-![](em3.png" ){ width=50% }
+![](em1.png){ width=50% }
+![](em2.png){ width=50% }
+![](em3.png){ width=50% }
 
 ## know where to run &bull; live at [kingdra.net/kwtr](https://kingdra.net/kwtr/)
-![](kwtr1.png" ){ width=50% }
-![](kwtr2.png" ){ width=50% }
-![](kwtr3.png" ){ width=50% }
-![](kwtr4.png" ){ width=50% }
-![](kwtr5.png" ){ width=50% }
+![](kwtr1.png){ width=50% }
+![](kwtr2.png){ width=50% }
+![](kwtr3.png){ width=50% }
+![](kwtr4.png){ width=50% }
+![](kwtr5.png){ width=50% }
