@@ -72,3 +72,15 @@ html {
     
 }
 </textarea>
+
+# specific use cases
+
+For top page padding in Firefox (remove):
+
+<textarea>
+  *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+</textarea>
