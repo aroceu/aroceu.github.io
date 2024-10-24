@@ -1,4 +1,4 @@
-# current designs &bull; [archived projects](archived/index.html)
+# current designs &bull; [archived projects](archived/index.md)
 
 ## dotcom
 ![](dotcom.png)
@@ -98,9 +98,9 @@
 ![](pkmntfav.png)
 ![](pkmntshiny.png)
 
-![](pkmnbag.png)
 ![](pkmngym.png)
 ![](pkmngymfight.png)
+![](pkmnbag.png)
 ![](pkmngympokego.png)
 ![](pkmngymrun.png)
 
