@@ -6,16 +6,16 @@ A gallery of designs for select archived projects, especially if they are still 
 
 ### &mdash; go to [current designs](/current/)
 
-## array ink
+## [array ink](https://github.com/aroceu/arrayink)
 ![](arrayink.png)
 ![](arrayinkabout.png)
 
-## this is our thing &bull; live at [kingdra.net/em](https://kingdra.net/em/)
+## [this is our thing](https://github.com/aroceu/em) &bull; live at [kingdra.net/em](https://kingdra.net/em/)
 ![](em1.png)
 ![](em2.png)
 ![](em3.png)
 
-## know where to run &bull; live at [kingdra.net/kwtr](https://kingdra.net/kwtr/)
+## [know where to run](https://github.com/aroceu/kwtr) &bull; live at [kingdra.net/kwtr](https://kingdra.net/kwtr/)
 ![](kwtr1.png)
 ![](kwtr2.png)
 ![](kwtr3.png)

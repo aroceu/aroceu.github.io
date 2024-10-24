@@ -14,12 +14,14 @@ A gallery of styles across all my currently active websites.
 ![](fic.png) ![](ficpost.png)
 ![](ficpage.png) ![](ficnight.png)
 
-## library
+## [library](https://github.com/aroceu/library)
 ![](lib.png)
-![](liblist.png) ![](liblist2.png)
-![](libfav.png) ![](liblog.png)
+![](liblist.png)
+![](liblist2.png)
+![](libfav.png)
+![](liblog.png)
 
-## prompt generators
+## [prompt generators](https://github.com/aroceu/generators)
 ![](pg.png)
 ![](pglexicon.png)
 
@@ -58,7 +60,7 @@ A gallery of styles across all my currently active websites.
 ## badbuddy.wiki
 ![](bbswiki.png)
 
-## icirrus
+## [icirrus](https://github.com/aroceu/icirrus)
 
 ![](pkmn.png)
 ![](pkmnt000.png) ![](pkmntinfo.png)
