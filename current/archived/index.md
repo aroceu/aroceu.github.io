@@ -4,14 +4,12 @@
 ![](arrayink.png)
 ![](arrayinkabout.png)
 
-## e/m
-Live at [kingdra.net/em](https://kingdra.net/em/)
+## e/m &bull; live at [kingdra.net/em](https://kingdra.net/em/)
 ![](em1.png)
 ![](em2.png)
 ![](em3.png)
 
-## know where to run
-Live at [kingdra.net/ktwr](https://kingdra.net/kwtr/)
+## know where to run &bull; live at [kingdra.net/ktwr](https://kingdra.net/kwtr/)
 ![](kwtr1.png)
 ![](kwtr2.png)
 ![](kwtr3.png)
