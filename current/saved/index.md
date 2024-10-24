@@ -1,8 +1,10 @@
-# [current designs](/current/) &bull; archived projects
+# saved projects
 
 A gallery of designs for select archived projects, especially if they are still online.
 
 [array ink](#array-ink) &bull; [this is our thing](#this-is-our-thing--live-at-kingdranetem) &bull; [know where to run](#know-where-to-run--live-at-kingdranetkwtr)
+
+### go to [current designs](/current/)
 
 ## array ink
 ![](arrayink.png" ){ width=50% }

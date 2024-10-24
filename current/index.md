@@ -1,6 +1,8 @@
-# current designs &bull; [saved projects](saved/index.md)
+# current designs 
 
 A gallery of styles across all my currently active websites.
+
+### go to [saved projects](saved/index.md)
 
 ## dotcom
 ![](dotcom.png" ){ width=50% } ![](dotcomabt.png" ){ width=50% }
