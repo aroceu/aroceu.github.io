@@ -74,7 +74,7 @@ A gallery of styles across all my currently active websites.
 ![](pkmntfav.png){ width=50% } ![](pkmntshiny.png){ width=50% }
 
 ![](pkmngym.png){ width=50% } ![](pkmngymfight.png){ width=50% }
-![](pkmnbag.png){ width=50% } ![](pkmngympokego.png){ width=50% }
+![](pkmnbag.png){ width=50% } ![](pkmngymgo.png){ width=50% }
 ![](pkmngymrun.png){ width=50% }
 
 
