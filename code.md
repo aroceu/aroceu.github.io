@@ -75,7 +75,7 @@ html {
 
 # specific use cases
 
-For top page padding in Firefox (remove):
+For removing top page padding in Firefox:
 
 <textarea>
   *{
