@@ -2,7 +2,7 @@
 
 A gallery of styles across all my currently active websites.
 
-### go to [saved projects](saved/index.md)
+### &mdash; go to [saved projects](saved/index.md)
 
 ## dotcom
 ![](dotcom.png) ![](dotcomabt.png)
