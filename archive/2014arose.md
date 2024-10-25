@@ -11,7 +11,7 @@ I bought this and my current main domain in the same year, but at the time I'd w
 
 ---
 
-![](2014arose/2014arose/twodongs0.png)
+![](2014arose/twodongs0.png)
 ![](2014arose/twodongs0.5(2016).png)
 ![](2014arose/log2017.png)
 ![](2014arose/magic2016.png)
