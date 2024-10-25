@@ -1,7 +1,7 @@
 ---
 title: 2016-2013 designs
 author: aroceu
-layout: archive
+layout: default
 
 ---
 
