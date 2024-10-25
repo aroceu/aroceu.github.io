@@ -1,7 +1,7 @@
 ---
 title: archives (main page)
 author: aroceu
-layout: archive
+layout: default
 
 ---
 
