@@ -5,6 +5,8 @@
 
 An archive of all my old designs which are no longer online.
 
+<small><small>Some screenshots may be edited, to protect personal information.</small></small>
+
 <big><b><a href="2024">2024</a> / <a href="eras">2023-2017</a>
 	<br /><a href="2014arose">arose.nu</a> / <a href="2014dotcom">dotcom (14-15)</a>
 	<br /><a href="2014">2014</a> / <a href="2014wpm">wpthemes: months</a>
