@@ -1,8 +1,4 @@
 ---
-title: archives (main page)
-author: aroceu
-layout: default
-
 ---
 
  {% include navigation.html %}
