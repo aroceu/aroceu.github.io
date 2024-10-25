@@ -5,9 +5,11 @@
 
 An archive of my old designs which are no longer online.
 
-<small><small>Some screenshots may be edited, to protect personal information. 
+<small><small>This is not accurately *all* of my designs &mdash; though it is most &mdash; as I have also made layouts for friends, as requests, and as side projects for my own entertainment, none of which can be neatly categorized with the designs here.</small></small>
 
-Additionally, this is not accurately *all* of my designs &mdash; though it is most &mdash; as I have also made layouts for friends, as requests, and as side projects for my own entertainment, none of which can be neatly categorized with the designs here.</small></small>
+
+<small><small>Some screenshots may be edited, to protect personal information.</small></small>
+
 
 <big><b><a href="2024">2024</a> / <a href="eras">2016-2023</a>
 	<br /><a href="2014arose">arose.nu</a> / <a href="2014dotcom">dotcom (14-15)</a>
