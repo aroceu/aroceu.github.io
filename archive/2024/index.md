@@ -1,7 +1,7 @@
 ---
 title: 2024 designs
 author: aroceu
-layout: default
+layout: archive
 
 ---
 
