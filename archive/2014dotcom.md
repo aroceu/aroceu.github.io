@@ -11,6 +11,6 @@ I was going through an identity crisis this year.
 
 ---
 
-![](dotcom3.png)
-![](tides.png)
-![](dotcom1.png)
+![](2014dotcom/dotcom3.png)
+![](2014dotcom/tides.png)
+![](2014dotcom/dotcom1.png)
