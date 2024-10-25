@@ -1,8 +1,7 @@
-[my website](https://aroceu.com/) / [your favorite website's favorite website](https://kingdra.net)
+[current](current/index.md) / [archive](archive/index.md) / [codes](codes.md)
 
 ---
 
 Using Github pages for little web projects and code testing and troubleshooting stuff, probably.
 
-- [Gallery of all my current designs](current/index.md)
-- [Code references](code.md)
+Still figuring out how I want to organize this page.
