@@ -24,4 +24,3 @@ The designs I've made for my main site(s), mostly, in this time period, especial
 ![](eras/dotcom2.png)
 ![](eras/dotcom1.png)
 ![](eras/fandom.png)
-![](eras/portal.png)
