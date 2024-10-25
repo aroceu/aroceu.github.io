@@ -2,6 +2,4 @@
 
 ---
 
-Using Github pages for little web projects and code testing and troubleshooting stuff, probably.
-
-Still figuring out how I want to organize this page.
+Metadata with regards to my existence on the internet. A personal wiki, of sorts.
