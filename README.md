@@ -2,4 +2,4 @@
 
 ---
 
-Metadata with regards to my existence on the internet. A personal wiki, of sorts.
+Metadata with regards to my existence on the internet. 
