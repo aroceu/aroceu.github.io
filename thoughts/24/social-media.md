@@ -3,6 +3,8 @@
 
 # some thoughts on leaving a social media website...again
 
+**october 17, 2024**
+
 *originally on [tumblr](https://aroceu.tumblr.com/post/764599604426768384/some-thoughts-on-leaving-a-social-media)*
 
 as of 10/16/2024, twitter has announced its intention to implement a new feature into the platform: instead of blocking allowing you to block certain accounts from viewing your profile if it's public, it now just... doesn't do that anymore. it only limits interaction. though this certainly isn't a surprise with musk's twitter rollouts since 2021&mdash;when i first saw people start to trickle out&mdash;this, in particular, breaks a lot of users boundaries and has prompted many to private their accounts and move to bluesky.
@@ -65,7 +67,7 @@ as the internet continues to grow, so do we. nevertheless, the importance of our
 
 links here, for access:
 
-- <a href="https://www.wired.com/story/bluesky-ceo-jay-graber-wont-enshittify-ads/">Bluesky CEO Jay Graber Says She Won&rsquo;t &lsquo;Enshittify the Network With Ads&rsquo;</a></li>
-- <a href="https://omoulo.com/artists_vs_social_media">R U AN ARTIST ON SOCIAL MEDIA??? by omoulo</a></li>
+- <a href="https://www.wired.com/story/bluesky-ceo-jay-graber-wont-enshittify-ads/">Bluesky CEO Jay Graber Says She Won&rsquo;t &lsquo;Enshittify the Network With Ads&rsquo;</a>
+- <a href="https://omoulo.com/artists_vs_social_media">R U AN ARTIST ON SOCIAL MEDIA??? by omoulo</a>
 - <a href="https://kingdra.net/links/">links @ kingdra.net</a> (my links, like bookmarks)
 - <a href="https://aroceu.com/manifesto">A manifesto of sorts; or, my love letter to the personal website</a> by me
