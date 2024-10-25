@@ -1,4 +1,4 @@
-[current](current/index.md) / [archive](archive/index.md) / [codes](codes.md) / [thoughts](thoughts.md)
+[current](current/index.md) / [archive](archive/index.md) / [codes](codes.md) / [thoughts](thoughts/index.md)
 
 ---
 
