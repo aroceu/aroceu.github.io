@@ -3,10 +3,11 @@
 
 # archive
 
-An archive of my old designs which are no longer online.
+An archive of my old designs which are no longer online. 
 
-<small><small>This is not accurately *all* of my designs &mdash; though it is most &mdash; as I have also made layouts for friends, as requests, and as side projects for my own entertainment, none of which can be neatly categorized with the designs here.</small></small>
+The gallery is, in its entirety, from newest to oldest, while being loosely organized by type of design/website.
 
+This is not accurately *all* of my designs &mdash; though it is most &mdash; as I have also made layouts for friends, as requests, and as side projects for my own entertainment, none of which can be neatly categorized with the designs here.
 
 <small><small>Some screenshots may be edited, to protect personal information.</small></small>
 
