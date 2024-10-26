@@ -14,6 +14,8 @@ The designs I've made for my main site(s), mostly, in this time period, especial
 ![](eras/pg.png)
 ![](eras/dotcom1.png)
 ![](eras/dotcom2.png)
+![](eras/dotcom2.5contact.png)
+![](eras/dotcom2.5ps.png)
 ![](eras/dotcom3.png)
 ![](eras/dotcom4.png)
 ![](eras/dotcom5.png)
