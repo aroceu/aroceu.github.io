@@ -4,9 +4,9 @@
 
 #1: [5 HUMILIATING mistakes in disney's zootopia](https://www.youtube.com/watch?v=z5qLgL-E7uY&list=PLhyHc3W8oSov-ucuA2YzzFMTJPZ6GNXJy&index=15)
 
-#2: [nerdy t-shirt designers] (https://www.youtube.com/watch?v=9w700Q_5-y0&list=PLhyHc3W8oSov-ucuA2YzzFMTJPZ6GNXJy&index=38)
+#2: [nerdy t-shirt designers](https://www.youtube.com/watch?v=9w700Q_5-y0&list=PLhyHc3W8oSov-ucuA2YzzFMTJPZ6GNXJy&index=38)
 
-#3: [shipping characters] (https://www.youtube.com/watch?v=ulteZYyWAA8&list=PLhyHc3W8oSov-ucuA2YzzFMTJPZ6GNXJy&index=84)
+#3: [shipping characters](https://www.youtube.com/watch?v=ulteZYyWAA8&list=PLhyHc3W8oSov-ucuA2YzzFMTJPZ6GNXJy&index=84)
 
 #4: [detective pikachu](https://www.youtube.com/watch?v=xU3BiUMUkc4&list=PLhyHc3W8oSov-ucuA2YzzFMTJPZ6GNXJy&index=101)
 
@@ -21,7 +21,6 @@
 #9: [letting someone use your phone](https://www.youtube.com/watch?v=BM5CUE-XfBk&list=PLhyHc3W8oSov-ucuA2YzzFMTJPZ6GNXJy&index=118)
 
 #10: [trying to watch a movie on a flight](https://www.youtube.com/watch?v=VY3oJh5gW3Q&list=PLhyHc3W8oSov-ucuA2YzzFMTJPZ6GNXJy&index=110)
-
 
 
 
