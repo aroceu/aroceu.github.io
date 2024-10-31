@@ -5,6 +5,7 @@ A small repository of information (moved from my Notes) that I want to retain, f
 Sorted by topic.
 
 - [ACNH](acnh.md)
+- [Letterboxd Challenges](letterboxd.md)
 - [MBTI Functions](mbti.md)
 - [Splatoon](splatoon.md)
 - [Writing](writing.md)
