@@ -66,7 +66,24 @@ layout: default
                   <br />Title
                   <br /><i>TV Series/Cartoon/K-Drama/Movie/Cartoon/Webcomic/Thai BL/Thai QL</i></li></textarea>
 
-## music: new songs (5)
+## music
+
+### new year (root colors)
+
+<textarea><style type="text/css">
+    :root{
+      --body: #162B8F linear-gradient(to top left, #162B8F 0%, #0B1A51 100%);
+      --body-border: #0B1A51;
+      --container: #fafafa; 
+      --h1: #0B1A51;
+      --h2: #162B8F;
+      --accent: #0B1A51;
+      --accent-light: #a6aabf;
+    }
+
+    </style></textarea>
+
+### new songs (5)
 
 <textarea><table class="song">
         <tr><td id="title"></td><td></td>

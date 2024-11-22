@@ -19,7 +19,6 @@ I bought this and my current main domain in the same year, but at the time I'd w
 ![](2014arose/kyusung2016.png)
 ![](2014arose/ps2016.png)
 ![](2014arose/dapple-heart.png)
-![](2014arose/fic.png)
 ![](2014arose/grow.png)
 ![](2014arose/downstream2016.png)
 ![](2014arose/downstream2015.png)

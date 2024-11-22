@@ -4,14 +4,8 @@ A small repository of information (moved from my Notes) that I want to retain, f
 
 Sorted by topic.
 
-- [ACNH](acnh.md)
+- [&star; My websites](mysites.md)
 - [Letterboxd Challenges](letterboxd.md)
 - [MBTI Functions](mbti.md)
 - [Sims 100 Baby Challenge](sims100.md)
-- [Splatoon](splatoon.md)
-- [Writing](writing.md)
 - [YouTube](youtube.md)
-
-## personal documentation
-
-- [My websites](mysites.md)
