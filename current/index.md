@@ -5,7 +5,7 @@ A gallery of styles across all my currently active websites.
 ### &mdash; go to [saved projects](saved/index.md)
 
 ## dotcom
-![](dotcom.png) ![](dotcomabt.png)
+![](dotcom-v5.3.png) ![](dotcomabt.png)
 ![](dotcomfan.png) ![](dotcomlb.png)
 ![](dotcommanifesto.png) ![](docs-v1.1.png)
 ![](projects.png)
