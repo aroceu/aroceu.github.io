@@ -6,7 +6,7 @@ A gallery of styles across all my currently active websites.
 
 ## dotcom
 ![](dotcom-v5.3.png) ![](dotcomabt.png)
-![](dotcomfan.png) ![](dotcomlb.png)
+![](dotcomcode.png) ![](dotcomfan.png) ![](dotcomlb.png)
 ![](dotcommanifesto.png) ![](docs-v1.1.png)
 ![](projects.png)
 
