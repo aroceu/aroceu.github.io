@@ -4,7 +4,7 @@ A small repository of information (moved from my Notes) that I want to retain, f
 
 Sorted by topic.
 
-- [&star; My websites](mysites.md)
+- **[My websites](mysites.md)**
 - [Letterboxd Challenges](letterboxd.md)
 - [MBTI Functions](mbti.md)
 - [Sims 100 Baby Challenge](sims100.md)
