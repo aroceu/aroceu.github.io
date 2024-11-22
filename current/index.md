@@ -7,7 +7,7 @@ A gallery of styles across all my currently active websites.
 ## dotcom
 ![](dotcom.png) ![](dotcomabt.png)
 ![](dotcomfan.png) ![](dotcomlb.png)
-![](dotcommanifesto.png) ![](dotcomdocs.png)
+![](dotcommanifesto.png) ![](docs-v1.1.png)
 ![](projects.png)
 
 ## fic
@@ -20,6 +20,27 @@ A gallery of styles across all my currently active websites.
 ![](liblist2.png)
 ![](libfav.png)
 ![](liblog.png)
+
+## [music](https://github.com/aroceu/music)
+![](music-index.png)
+![](music-12.png)
+![](music-13.png)
+![](music-14.png)
+![](music-15.png)
+![](music-16.png)
+![](music-17.png)
+![](music-18.png)
+![](music-19.png)
+![](music-20.png)
+![](music-21.png)
+![](music-22.png)
+![](music-23.png)
+
+## [gifts](https://github.com/aroceu/gifts)
+![](gifts-index.png)
+![](gifts-art.png)
+![](gifts-fic-0.png)
+![](gifts-fic-1.png)
 
 ## [prompt generators](https://github.com/aroceu/generators)
 ![](pg.png)
@@ -55,7 +76,7 @@ A gallery of styles across all my currently active websites.
 ![](pglovers.png)
 
 ## kingdra
-![](kingdranet.png) ![](link.png)
+![](kingdranet.png) ![](links-v1.1.png)
 
 ## badbuddy.wiki
 ![](bbswiki.png)

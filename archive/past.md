@@ -11,6 +11,7 @@ The designs I've made for my main site(s), mostly, in this time period, especial
 
 ---
 
+![](past/fic.png)
 ![](past/pg.png)
 ![](past/dotcom1.png)
 ![](past/dotcom2.png)
