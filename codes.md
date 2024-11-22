@@ -2,6 +2,130 @@
 
 A small repository of code that I'd like to save for future usage and/or regular updates for one of my websites. Feel free to use them as well.
 
+# github
+
+## /archive: new page (.md)
+
+<textarea>---
+title: 
+author: 
+layout: default
+
+---
+
+# 
+
+
+
+---
+
+![](/.png)
+![](/.png)
+![](/.png)
+![](/.png)
+![](/.png)</textarea>
+
+# aroceu.com
+
+## library
+
+### new to-do list items
+
+**animanga**
+<textarea><li><img src="todo/animanga/IMAGE URL">
+                  <br />Title
+                  <br /><i>Creator/Mangaka</i></li></textarea>
+
+**books**
+<textarea><li><img src="todo/books/IMAGE URL">
+                  <br />Title
+                  <br /><i>Author</i></li></textarea>
+
+**games**
+<textarea><li><img src="todo/games/IMAGE URL">
+                  <br />Title
+                  <br /><i>Console</i></li></textarea>
+
+**movies**
+<textarea><li><img src="todo/movies/IMAGE URL">
+                  <br />Title 
+                  <br /><i>Director</i></li></textarea>
+
+**music**
+<textarea><li><img src="todo/music/IMAGE URL">
+                  <br />Album Title
+                  <br /><i>Artist</i></li></textarea>
+
+**musicals**
+<textarea><li><img src="todo/musicals/IMAGE URL">
+                  <br />Title
+                  <br /><i>Movie/Stage (one or the other)</i></li></textarea>
+
+**series**
+<textarea><li><img src="todo/series/IMAGE URL">
+                  <br />Title
+                  <br /><i>TV Series/Cartoon/K-Drama/Movie/Cartoon/Webcomic/Thai BL/Thai QL</i></li></textarea>
+
+## music: new songs (5)
+
+<textarea><table class="song">
+        <tr><td id="title"></td><td></td>
+        <td class="artist"></td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title"></td><td></td>
+        <td class="artist"></td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title"></td><td></td>
+        <td class="artist"></td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title"></td><td></td>
+        <td class="artist"></td></tr>
+      </table>
+
+      <table class="song">
+        <tr><td id="title"></td><td></td>
+        <td class="artist"></td></tr>
+      </table></textarea>  
+
+# gifts
+
+### new fic (friends)
+
+  <textarea><li class="fic">
+<fic><a href="">title</a> by author</fic>
+<metadata><date>month date, year</date></metadata>
+</li>
+
+</textarea>
+
+### new fic (event)
+
+<textarea><li class="fic">
+<fic><a href="">title</a> by author</fic>
+<metadata><date>month date, year</date> &bull; <a href="">event</a></metadata>
+</li>
+
+</textarea>
+
+### new art
+
+<textarea><li><a class="fancybox" href="IMAGE URL (FANCYBOX LINK)" data-fancybox-group="gallery" title="ART CREDIT"><img src="IMAGE URL (THUMBNAIL)" alt=""/></a></li>
+</textarea>
+
+# kingdra.net
+
+## links
+
+### new link
+
+<textarea><li><a href="" target="blank"></a></li></textarea>
+
 # dreamwidth
 
 ## icon tables
@@ -77,56 +201,6 @@ Default icon link: [https://ceu.dreamwidth.org/file/3683.png](https://ceu.dreamw
 <td width="500px">1</td>
 </tr></table>
 </textarea>
-
-# site specific
-
-## /archive: new page (.md)
-
-<textarea>---
-title: 
-author: 
-layout: default
-
----
-
-# 
-
-
-
----
-
-![](/.png)
-![](/.png)
-![](/.png)
-![](/.png)
-![](/.png)</textarea>
-
-## /music: new songs (5)
-
-<textarea><table class="song">
-        <tr><td id="title"></td><td></td>
-        <td class="artist"></td></tr>
-      </table>
-
-      <table class="song">
-        <tr><td id="title"></td><td></td>
-        <td class="artist"></td></tr>
-      </table>
-
-      <table class="song">
-        <tr><td id="title"></td><td></td>
-        <td class="artist"></td></tr>
-      </table>
-
-      <table class="song">
-        <tr><td id="title"></td><td></td>
-        <td class="artist"></td></tr>
-      </table>
-
-      <table class="song">
-        <tr><td id="title"></td><td></td>
-        <td class="artist"></td></tr>
-      </table></textarea>  
 
 # backgrounds (css)
 
