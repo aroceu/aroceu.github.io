@@ -1,11 +1,12 @@
 # knowledgebase
 
-A small repository of information (moved from my Notes) that I want to retain, for either the present or the future.
+A small repository of stuff that I would like to retain. 
 
 Sorted by topic.
 
 - **[My websites](mysites.md)**
 - [Letterboxd Challenges](letterboxd.md)
 - [MBTI Functions](mbti.md)
+- [Reflections](reflections.md)
 - [Sims 100 Baby Challenge](sims100.md)
 - [YouTube](youtube.md)

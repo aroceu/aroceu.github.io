@@ -12,7 +12,7 @@ Anything that I would post for availability to the general public, with a handfu
 - Some anon fic; other anon fic is also posted here
 - Most WIPs and older ficlets even for events, though those are publicly available on my [writing dreamwidth](https://aroceu.dreamwidth.org)
 
-All creative works related to any of my fic but is not made by me is also archived here, even if I have deleted the fic myself. Fic fanart and remixes are here as well, and do not overlap with gifts unless I received the work a) as a gift for an exchange of some sort; or b) as a personal gift of some sort (such as for my birthday).
+All creative works related to any of my fic but not made by me is also archived here, even if I have deleted the fic myself. Fic fanart and remixes are here as well, and do not overlap with gifts unless I received the work a) as a gift for an exchange of some sort; or b) as a personal gift of some sort (such as for my birthday).
 
 ### library
 
