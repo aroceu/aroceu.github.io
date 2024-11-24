@@ -19,5 +19,5 @@ This is not accurately *all* of my designs &mdash; though it is most &mdash; as 
 	<br /><a href="2013wpc">wp-themes: colors</a> / <a href="2012rice">rice.hugs.nu</a>
 	<br /><a href="2011-2012">2011-2012</a> / <a href="2010heartknot">heartknot</a>
 	<br /><a href="2010">2010</a> / <a href="2009moon-strukk">moon-strukk</a>
-	<br /><a href="2009">2009</a> / <a href="2008wonderland">wonderland</a>
-	<br /><a href="2008">2008</a> / <a href="2006-2007">2006-2007</a> / <a href="2006aiwxo">aiw[xo]</a>
+	<br /><a href="2009">2009</a> / <a href="2009wonderland">wonderland</a>
+	<br /><a href="2008">2008</a> / <a href="2008aiwxo">aiw[xo]</a>

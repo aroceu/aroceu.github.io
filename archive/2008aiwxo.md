@@ -5,7 +5,7 @@ layout: default
 
 ---
 
-# aiw[xo] (2006-2007)
+# aiw[xo] (2008)
 
 My first try at this thing.
 
