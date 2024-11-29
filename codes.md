@@ -257,6 +257,12 @@ Default icon link: [https://ceu.dreamwidth.org/file/3683.png](https://ceu.dreamw
 
 # responsive (css)
 
+## initial scale set
+
+<textarea>
+  <meta name="viewport" content="initial-scale=1.0">
+</textarea>
+
 ## tablets (bigger)
 
 <textarea>
