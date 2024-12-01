@@ -265,8 +265,10 @@ Default icon link: [https://ceu.dreamwidth.org/file/3683.png](https://ceu.dreamw
 
 ## tablets (bigger)
 
+Previous value (can use in conjunction with below): 769 as max width
+
 <textarea>
-  @media only screen and (max-width: 1025px) and (min-width: 769px) {
+  @media only screen and (max-width: 1025px) and (min-width: 811px) {
     
 html {
 -webkit-text-size-adjust: 100%;
@@ -276,8 +278,10 @@ html {
 
 ## tablets (smaller)
 
+Previous value (can use in conjunction with above): 768 as max width
+
 <textarea>
-  @media only screen and (max-width: 768px) and (min-width: 431px) {
+  @media only screen and (max-width: 810px) and (min-width: 431px) {
     
     html {
 -webkit-text-size-adjust: 100%;
