@@ -76,15 +76,17 @@ A gallery of styles across all my currently active websites.
 ![](pglovers.png)
 
 ## kingdra
-![](kingdranet.png) ![](links-v1.1.png)
+![](kingdranet.png) ![](kingdranetdesktop.png) ![](kingdranetmobile.png)
+![](links-v1.1.png)
 
 ## badbuddy.wiki
 ![](bbswiki.png)
 
 ## [icirrus](https://github.com/aroceu/icirrus)
 
-![](pkmn.png)
-![](pkmnt000.png) ![](pkmntinfo.png)
+![](pkmn1.png)
+![](pkmnhome.png)
+![](pkmnt001.png) ![](pkmntabout.png)
 ![](pkmntruby.png) ![](pkmntemerald.png)
 ![](pkmntdiamond.png) ![](pkmntplatinum.png)
 ![](pkmntfirered.png) ![](pkmnthg.png)
@@ -99,6 +101,8 @@ A gallery of styles across all my currently active websites.
 ![](pkmngym.png) ![](pkmngymfight.png)
 ![](pkmnbag.png) ![](pkmngymgo.png)
 ![](pkmngymrun.png)
+![](pkmndocs.png)
+![](pkmnmap.png)
 
 
 
