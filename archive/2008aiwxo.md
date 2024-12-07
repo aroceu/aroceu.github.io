@@ -15,8 +15,8 @@ The fifth (at the top) was unpublished, but I liked it a lot.
 
 ---
 
-![](2006aiwxo/5.png)
-![](2006aiwxo/4.5.png)
-![](2006aiwxo/idiosyncrasy2008.png)
-![](2006aiwxo/4.png)
-![](2006aiwxo/3.5-e.png)
+![](2008aiwxo/5.png)
+![](2008aiwxo/4.5.png)
+![](2008aiwxo/idiosyncrasy2008.png)
+![](2008aiwxo/4.png)
+![](2008aiwxo/3.5-e.png)

@@ -5,14 +5,14 @@ A gallery of styles across all my currently active websites.
 ### &mdash; go to [saved projects](saved/index.md)
 
 ## dotcom
-![](dotcom-v5.3.png) ![](dotcomabt.png)
+![](dotcom-v5.31.png) ![](dotcomabt.png)
 ![](dotcomcode.png) ![](dotcomfan.png) ![](dotcomlb.png)
-![](dotcommanifesto.png) ![](docs-v1.1.png)
+![](dotcommanifesto.png) ![](docs-v1.1.png) ![](dotcomlog.png)
 ![](projects.png)
 
 ## fic
 ![](fic.png) ![](ficpost.png)
-![](ficpage.png) ![](ficnight.png)
+![](ficpage.png) ![](ficpage2.png) ![](ficfandoms.png) ![](ficnight.png)
 
 ## [library](https://github.com/aroceu/library)
 ![](lib.png)
@@ -79,9 +79,6 @@ A gallery of styles across all my currently active websites.
 ![](kingdranet.png) ![](kingdranetdesktop.png) ![](kingdranetmobile.png)
 ![](links-v1.1.png)
 
-## badbuddy.wiki
-![](bbswiki.png)
-
 ## [icirrus](https://github.com/aroceu/icirrus)
 
 ![](pkmn1.png)
@@ -104,6 +101,11 @@ A gallery of styles across all my currently active websites.
 ![](pkmndocs.png)
 ![](pkmnmap.png)
 
+## fandomr.ing
+![](fanring.png)
+
+## badbuddy.wiki
+![](bbswiki.png)
 
 
 

@@ -13,6 +13,6 @@ I don't have a screenshot of the first layout, but I remember what it looked lik
 
 ---
 
-![](2008wonderland/shine.png)
-![](2008wonderland/scripink-e.png)
-![](2008wonderland/notebook.png)
+![](2009wonderland/shine.png)
+![](2009wonderland/scripink-e.png)
+![](2009wonderland/notebook.png)
