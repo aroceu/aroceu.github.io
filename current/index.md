@@ -5,10 +5,11 @@ A gallery of styles across all my currently active websites.
 ### &mdash; go to [saved projects](saved/index.md)
 
 ## dotcom
-![](dotcom-v5.32.png) ![](dotcomabt.png) ![](dotcomme.png)
+![](dotcom-v5.33.png) ![](dotcomabt.png) ![](dotcomme.png) ![](dotcomlog.png)
 ![](dotcomcode.png) ![](dotcomfan.png) ![](dotcomwebrings.png) ![](dotcomlb.png)
-![](dotcommanifesto.png) ![](docs-v1.1.png) ![](dotcomlog.png)
+![](dotcommanifesto.png)
 ![](projects.png)
+ ![](dotcommap.png) ![](docs-v1.1.png) 
 
 ## fic
 ![](fic.png) ![](ficpost.png)
@@ -98,8 +99,9 @@ A gallery of styles across all my currently active websites.
 ![](pkmngym.png) ![](pkmngymfight.png)
 ![](pkmnbag.png) ![](pkmngymgo.png)
 ![](pkmngymrun.png)
-![](pkmndocs.png)
+![](pkmnxtra.png)
 ![](pkmnmap.png)
+![](pkmndocs.png)
 
 ## fandomr.ing
 ![](fanring.png)
