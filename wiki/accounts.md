@@ -26,13 +26,13 @@ murmuring - poetry
 
 ## other interests
 
-splatbow @ bsky - video games only
-splatling @ dw - video games only
-masterball @ dw - pokemon site updates
+- splatbow @ bsky - video games only
+- splatling @ dw - video games only
+- masterball @ dw - pokemon site updates
 
 ## archived 
 
-savzuck @ dw - tsn brainrot
-reccer @ dw - recs
-mbti @ dw - mbti rants
-endpaper @ dw - pre-2017 masterlist
+- savzuck @ dw - tsn brainrot
+- reccer @ dw - recs
+- mbti @ dw - mbti rants
+- endpaper @ dw - pre-2017 masterlist
