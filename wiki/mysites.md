@@ -43,6 +43,8 @@ Features are also mentioned alongside the song artist.
 
 I don't bother indicating different versions of an album unless it's a re-release (i.e. Taylor's versions.)
 
+For some playlists, there are songs that I got into December of the previous year but would attribute more as a following year song, while for other yearly playlists I would add December songs to its respective yearly playlist. This is mostly based on vibes and what I want to put where. Plus, I can always make modifications in the future. Tl;dr I don't have real rules for this, just what I feel is most suitable in the moment (and may modify if I change my mind later.)
+
 ### gifts
 
 The only real rule here is that fic art only appears here if it organically fits into either one of the main art categories, as a commission or as a personal gift (from a friend or for an exchange.) This is to avoid excessive cross-posting from my fic site.
