@@ -15,7 +15,7 @@ I've mentioned several times how long I've been online - and, similarly, how lon
 
 I suppose from a capitalistic angle, it is. Majoring in Creative Writing is like majoring in Art - what am I going to even do with it, if I'm not immediately incredibly successful? Meanwhile, people are building websites all the time, small businesses, industries. Websites need a webmaster to live, a human being behind it. Web development is a more profitable interest.
 
-But I'm getting ahead of myself here. Though I've written a <a href="https://aroceu.com/manifesto">philosophical manifesto</a> and <a href="https://icirr.us/docs">10,000 words of why I wanted to make a Pok&eacute;mon website</a>, and referenced <a href="https://aroceu.github.io/thoughts/24/internet-archiving">many</a> <a href="https://aroceu.github.io/thoughts/24/social-media">more</a> <a href="https://aroceu.com/docs">times elsewhere about my history on the internet and as a website owner, I want to get more detailed with it. I want to share my origin story. At least, from this interested-in-websites angle. 
+But I'm getting ahead of myself here. Though I've written a <a href="https://aroceu.com/manifesto">philosophical manifesto</a> and <a href="https://icirr.us/docs">10,000 words of why I wanted to make a Pok&eacute;mon website</a>, and referenced <a href="https://aroceu.github.io/thoughts/24/internet-archiving">many</a> <a href="https://aroceu.github.io/thoughts/24/social-media">more</a> <a href="https://aroceu.com/docs">times</a> elsewhere about my history on the internet and as a website owner, I want to get more detailed with it. I want to share my origin story. At least, from this interested-in-websites angle. 
 
 So, let's get into it.
 
