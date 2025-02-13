@@ -110,7 +110,7 @@ It was through the creative space of website-making where I explored this at man
 
 -
 
-I was lucky to be enamored with website-making at a young age. But I remember how lost and ignorant and impatient I felt. Websites can feel intimidating and scary, because there are some that do things in ways that most of us will never understand. There's all sorts of brackets and jargon and terminology. In fact, recently when a friend asked me what a "static site" meant, I had to look it up to double check that my understanding of it was correct.
+I was lucky to be enamored with website-making at a young age. But I remember how lost and ignorant and impatient I felt, in the beginning. Websites can feel intimidating and scary, because there are some that do things in ways that most of us will never understand. There's all sorts of brackets and jargon and terminology. In fact, recently when a friend asked me what a "static site" meant, I had to look it up to double check that my understanding of it was correct.
 
 I'm writing this to encourage people to make their own website - no matter how unfamiliar they may be with it - yet again. No pressure, of course, I just have a lot of feelings about this. But more than that I want to emphasize the creative and artistic humanity behind it. I like having accounts, but at some point it starts feeling like I'm putting myself into these little corporate boxes. Follow me on Twitter. Follow my Instagram. Add me on Facebook. Social media accounts aren't all who I am, or who any of us are. They help us communicate in a lot more convenient ways - but another part of that reality is advertising revenue for incredibly wealthy corporations.
 
