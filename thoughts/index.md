@@ -7,7 +7,7 @@ A collection of long-form thoughts.
 
 **2025**
 
-- [My webdesigning origin story; or, humanity, the internet, me, and you](25/webdev-history)
+- [My webdesign origin story; or, humanity, the internet, me, and you](25/webdesign-history)
 
 **2024**
 - [On archiving, by an ex-deleter](24/internet-archiving) (cw: death talk)

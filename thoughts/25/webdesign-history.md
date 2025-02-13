@@ -1,7 +1,7 @@
 ---
 ---
 
-# My webdesigning origin story; or, humanity, the internet, me, and you
+# My webdesign origin story; or, humanity, the internet, me, and you
 
 **February 12, 2025**
 
