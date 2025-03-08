@@ -4,7 +4,7 @@ A small repository of stuff that I would like to retain.
 
 Sorted by topic.
 
-- **[My websites](mysites.md)** / **[my accounts](accounts.md)**
+- **[My hardware](hardware.md)** / **[my websites](mysites.md)** / **[my accounts](accounts.md)**
 - [Letterboxd Challenges](letterboxd.md)
 - [MBTI Functions](mbti.md)
 - [Reflections](reflections.md)
