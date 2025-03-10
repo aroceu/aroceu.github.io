@@ -9,4 +9,5 @@ Sorted by topic.
 - [MBTI Functions](mbti.md)
 - [Reflections](reflections.md)
 - [Sims 100 Baby Challenge](sims100.md)
+- [Trash Girl Band Names](trashgirlnames.md)
 - [YouTube](youtube.md)

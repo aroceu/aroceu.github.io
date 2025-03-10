@@ -63,6 +63,24 @@ Links aggregated at the end of this page are related to philosophical, existenti
 
 Websites that I admire and respect and would like to return to for some inspiration. I find both the content they share on their website as well as the site's structural design to be both inspirational and unique. The content itself is also somewhat relevant to me in some way.
 
+My actual standards for these sites:
+- must have an 88x31 button (no exceptions)
+- must have an exits out page (some exceptions)
+- website quality and design must be to the point that makes me think, *Wow, I wish I could (want to) do that* (particularly more than me thinking *okay but I could do that better*). The only exception to this is if the content makes me think that instead.
+- left-leaning/socialist/LGBT (no exceptions)
+- site must be mostly "complete" with minimal to no dead links. Not so much a finished product as much as having enough to feel like you can spend more than 5 minutes visiting it and not clicking on a broken or unused link. (no exceptions)
+- site must be relatively active, as in updated within a reasonable few months upon my scouring sites to add to the list. I do not regularly check for activity (though I'll probably do some cleaning in a year's time). I want sites that are in-progress but with promise *and* with plenty for the visitor to see regardless. (few exceptions)
+- there must be something unique about the site to me, but that's based purely on vibes and how I experience uniqueness. (no exceptions)
+- the site must be accessible by my preferred standards (no audio or autoplayed music, visually appealing spacing, sized nicely and appropriately, not that difficult to navigate) while being able to retain its uniqueness (some exceptions)
+- site must be in English (so I can read it)
+- sites must be pseudonymous in nature (no real life names and minimal selfies, and as my own identity is pseudonymous, to retain that boundary. basically no professional sites and things branded with wallet names)
+- webmasters must be adults
+- heavy preference for designs being handcoded by the webmaster
+- design feels like a solid established identity confident and liked by and for the webmaster. website is constructed with a personal passion for the internet or just drive to self-express
+- a little extra levity granted to non-neocities/nekoweb sites and independent domains (in terms of content or design appeal)
+
+There are no preferences for design style or aesthetic, only that they are done well. There is also no technical standard for content, but I link sites that I want to visit again so they have to appeal to me in some way in content anyway.
+
 ### personal sites (bottom)
 
 Friends!!
