@@ -43,6 +43,6 @@ cPanel version control:
 	8. GitVersion Control
 		a. Create
 		b. For the repository URL, make sure the format is:
-			i. ssh://GITHUBREPOSITORYNAME.github.com/aroceu/GITHUBREPOSITORYNAME
+			i. ssh://GITHUBREPOSITORYNAME.github.com/GITHUBUSERNAME/GITHUBREPOSITORYNAME
 
 Profit !!

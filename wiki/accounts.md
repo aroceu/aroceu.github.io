@@ -10,7 +10,9 @@ aroceu @ tumblr - opposite of bsky; mostly reblogging. i'm only on it when i fee
 
 /projects - non-fic creative fannish(ish) works - creative essays, meta, commentary, compilations (zines), videos, games/multimedia fic, playlists (including covers); mod archive
 
-github pages - creative long form reflections a la not *intensely* personal blog posts (but have a tendency to have a personal element); like a public version of my amaura dreamwidth
+github pages - creative long form reflections a la not *intensely* personal blog posts (but have a tendency to have a personal element)
+
+bearblog - introspective/personal long form thoughts in diary format (these are not creative, just thoughtspills) (also creative indicates stylistic and readability intent to me, which my diary is not. I'll certainly pretend to be coherent at times but the point is to write for myself, no one else. just in public for fun ^_^)
 
 ## dreamwidth accounts [active]
 
@@ -20,9 +22,10 @@ ceu - fic extras (b sides, meta commmentary), graphics (because i don't make the
 
 ssc - dw layouts (i only have 2 lol)
 
-amaura - personal (out of the light personal life/identity reflections); like a priv version of my github pages
-
 murmuring - poetry
+
+<!-- amaura - personal (out of the light personal life/identity reflections); like a priv version of my github pages
+not deleting this one but i am retiring it, i've decided -->
 
 ## other interests
 

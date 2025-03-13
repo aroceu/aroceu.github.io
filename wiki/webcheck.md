@@ -11,12 +11,14 @@ This isn't a real checklist for myself or for other people to use as a reference
 
 2. Last updated/something indicating when the last activity on the website is
 
-    This is mostly to get a sense of how active the webmaster/website is, so I know how frequently I might have to check it again in the future. Archives are better imo, but just a last updated date isn't bad either. But I will say that I do have more interest in websites that feel more alive than ones that feel abandoned (but I don't think it's impossible to revive them either - it's just fun to see things change!.
+    This is mostly to get a sense of how active the webmaster/website is, so I know how frequently I might have to check it again in the future. Archives are better imo, but just a last updated date isn't bad either. But I will say that I do have more interest in websites that feel more alive than ones that feel abandoned (but I don't think it's impossible to revive them either - it's just fun to see things change!)
 
 3. Links out
 
-    Ever since my very first website I've been a huge enthusiast for the affiliation process. Mostly because it was an excuse to see a bunch of different people's sites and seeing the cool ways they could make them different. That was my favorite part. I liked seeing everyone's and uniqueness. 
+    Ever since my very first website I've been a huge enthusiast for the affiliation process. Mostly because it was an excuse to see a bunch of different people's sites and the cool ways they could make them different. That was my favorite part. I liked seeing everyone's and uniqueness. 
+
     Anyway, I put this here as a bulletpoint just because in my experience it's always been a part of the process of having an indie site. And why shouldn't it be? No one has to make friends, but I think every personal website is worth seeing. And even if it's not actual mutuals and affiliates, honestly that makes links out pages even better to me - someone listing a bunch of website buttons for the love of the game, for the websites. (Admittedly, that's also what I do <a href="https://kingdra.net/pages/sites.php">here</a> &gt;_&gt; lol.) 
+    
     Either way, I do generally prefer and think better of websites who have a links out page, no matter how big or small. I just think the whole point of the internet is for us to link to each other, you know?
 
 4. About the site
