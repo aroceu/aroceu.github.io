@@ -14,5 +14,6 @@ Sorted by topic.
 - [Sims 100 Baby Challenge](sims100.md)
 - [Things I have literally never been asked](faq.md)
 - [Trash Girl Band Names](trashgirlnames.md)
+- [Vinyls](vinyls.md)
 - [Website checklist](webcheck.md)
 - [YouTube](youtube.md)
