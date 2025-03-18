@@ -18,15 +18,15 @@ want to own a vinyl for. One day.
 
 ## wishlist
 
-&star; = high priority 
+\# = high priority 
 
-- LM5 by Little Mix &star;
-- Cowboy Carter by Beyonce &star;
-- Pretty.Odd. by Panic! at the Disco &star;
-- Mayhem by Lady Gaga &star;
+- LM5 by Little Mix \#
+- Cowboy Carter by Beyonce \#
+- Pretty.Odd. by Panic! at the Disco \#
+- Mayhem by Lady Gaga \#
 - Take Me Home by One Direction
-- Warriors by Eisa Davis and Lin-Manuel Miranda &star;
-- Melodrama by Lorde &star;
+- Warriors by Eisa Davis and Lin-Manuel Miranda \#
+- Melodrama by Lorde \#
 - Pure Heroine by Lorde
 - Too Weird To Live, Too Rare To Die by Panic! at the Disco
 - Vices & Virtues by Panic! at the Disco
