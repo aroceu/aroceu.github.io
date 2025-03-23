@@ -15,6 +15,7 @@
 - see like 2 more broadway musicals
 - visit graves (see memoriam)
 - get into fire emblem. I GUESS.
+- take sani to target / have her try cinnamon toast crunch and girl scout cookies
 
 ## accomplished (hehe)
 
