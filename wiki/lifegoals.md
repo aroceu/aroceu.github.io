@@ -9,7 +9,7 @@
 - take up a hobby that requires meeting with people irl regularly lol (music production?? lol idk i've just been thinking)
 - make enough money to donate to my favorite content creators regularly (& commissions & mutual aid donations)
 - get like 10 more tattoos (top left sleeve, top right shoulder, ankles, back)
-- i would like a dedicated office space (doesn't want to become a homeowner)
+- i would like a dedicated office space (doesn't want to own a house)
 - meet up with internet friends (always!!!!!!! this is also one of the main reasons i want to travel)
 - go to concerts for: carly rae jepsen, taylor swift, lady gaga, beyonce, pentagon (i believe), chappell roan, sabrina carpenter, olivia rodrigo, blackpink, kendrick lamar, idkhow, cobra starship (lol?? not like this will ever happen againm but... putting it here just in case), little mix (see previous parenthetical), block b (lol), neon jungle (lol) (listen i can wish)
 - see like 2 more broadway musicals
