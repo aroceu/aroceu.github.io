@@ -1,6 +1,6 @@
 # life goals
 
-- live in: seattle, colorado
+- live in: seattle, colorado, chicago
 - visit: ireland, scotland, brazil, greenland, iceland, thailand
 - return to: japan (!!), singapore (at least one more time), hong kong, china, uk, australia, france, italy (venice), berlin, iowa, nyc, toronto/canada
 - publish at least one (1) marketable book

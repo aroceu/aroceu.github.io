@@ -15,6 +15,9 @@ want to own a vinyl for. One day.
 - 1989 (Taylor's Version) by Taylor Swift
 - folklore by Taylor Swift
 - Red (Taylor's Version ) by Taylor Swift
+- Warriors by Eisa Davis and Lin-Manuel Miranda
+- Mayhem by Lady Gaga
+- To Pimp A Butterfly by Kendrick Lamar
 
 ## wishlist
 
@@ -23,9 +26,7 @@ want to own a vinyl for. One day.
 - LM5 by Little Mix \#
 - Cowboy Carter by Beyonce \#
 - Pretty.Odd. by Panic! at the Disco \#
-- Mayhem by Lady Gaga \#
 - Take Me Home by One Direction
-- Warriors by Eisa Davis and Lin-Manuel Miranda \#
 - Melodrama by Lorde \#
 - Pure Heroine by Lorde
 - Too Weird To Live, Too Rare To Die by Panic! at the Disco
