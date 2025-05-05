@@ -132,6 +132,7 @@ Italics are songs that made me go "oh yeah this one is definitely made for me" o
 * valkyrie (original and rock version) by oneus
 * very good (original and rock version) by block b
 * super girl (mandarin ver.) by super junior m
+* _he said she said by ashley tisdale_
 
 #### and the most formative songs from my childhood that defined my taste today (preteen and younger)
 
@@ -156,6 +157,7 @@ Italics are songs that made me go "oh yeah this one is definitely made for me" o
 * don't trust me by 3oh3
 * move by little mix
 * walk like this by flo
+* he said she said by ashley tisdale
 
 ### songs i like so much that i also get obsessed with their covers
 
