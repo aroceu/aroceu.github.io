@@ -1,16 +1,16 @@
 ## tech
 
-**Nebula** : MacBook Pro 2024, 1TB, M4 : laptop/personal computer
+**Macchiato** : MacBook Pro 2024, 1TB, M4 : laptop/personal computer
 
-**North Star** : iPhone 15, 128gb (light pink, light denim otterbox case, swirly light pink popsocket) : phone/music
+**Caramel** : iPhone 15, 128gb (light pink, light denim otterbox case, swirly light pink popsocket) : phone/music
 
-**Meteor** : 2TB External HD : digital media (books, movies, TV)
+**Cinnamon** : 2TB External HD : digital media (books, movies, TV)
 
 ### accessories
 
-**AirPod Pros** : portable audio main
+**Chocolate Chip (AirPod Pros)** : portable audio main
 
-**Razer Barracuda Headphones (& headmic)** (light pink) : fixed audio/mic main
+**Peppermint (Razer Barracuda Headphones w/ headmic)** (light pink) : fixed audio/mic main
 
 ### old/backup
 
