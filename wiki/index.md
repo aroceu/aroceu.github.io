@@ -1,6 +1,6 @@
 # knowledgebase
 
-A small repository of stuff that I would like to retain. 
+A small repository of stuff that I would like to retain in public. 
 
 Sorted by topic.
 
