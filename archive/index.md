@@ -12,7 +12,7 @@ This is not accurately *all* of my designs &mdash; though it is most &mdash; as 
 <small><small>Some screenshots may be edited, to protect personal information.</small></small>
 
 
-<big><b><a href="2024">2024-2025</a>
+<big><b><a href="2024">Recently Archived (2024-2025)</a>
 	<br /><i>interlude:</i> <a href="past">2015-2023</a>
 	<br /><a href="2014">2014</a> / <a href="2014arose">arose.nu</a> / <a href="2014dotcom">dotcom (14-15)</a>
 	<br /><a href="2013">2013</a> / <a href="2014wpm">wp-themes: months</a> / <a href="2013rice">ricetard.nu</a>
