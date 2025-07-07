@@ -22,6 +22,8 @@ Additionally, my old F2U layouts were mostly made for Quizilla/Mibba because the
 
 TL;DR My reason for making F2U layouts in the first place was more for me to learn than to truly make and share "free to use" content (based on my own motivations/passions). Once I learned enough I became more interested in applying my skills to my own sites rather than making things for other people, so that interest hasn't returned since. 
 
+HOWEVER, as exceptions always exist, I will always be happy to make base code templates for friends and specific requests. This is a one-on-one thing, though; I'm not interested in writing code for others in hopes that someone will use it, but rather I'm happy to write code if I *know* that it's because someone plans on using it.
+
 **I don't like you/how you said something/find you annoying/heard something problematic about you/[insert other negative opinion here]**
 
 Get over it.
