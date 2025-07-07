@@ -9,6 +9,8 @@ layout: default
 
 The designs I've made for my main site(s), mostly, in this time period, especially as I stopped making F2U layouts. Naturally, there are less here, but mostly because the projects I made during that period are still up now :)
 
+**Total count:** 17
+
 ---
 
 ![](past/pg.png)

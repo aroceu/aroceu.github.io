@@ -13,6 +13,8 @@ I have no screencaps of the first theme, though I could tell you what it looked 
 
 The fifth (at the top) was unpublished, but I liked it a lot.
 
+**Total count:** 5 on this page, 3 missing (8 total)
+
 ---
 
 ![](2008aiwxo/5.png)

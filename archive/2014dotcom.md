@@ -9,6 +9,8 @@ layout: default
 
 I was going through an identity crisis this year.
 
+**Total count:** 3
+
 ---
 
 ![](2014dotcom/dotcom3.png)

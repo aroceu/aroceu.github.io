@@ -11,6 +11,8 @@ My first subdomain. This is when I started making an effort to actually understa
 
 I don't have a screenshot of the first layout, but I remember what it looked like and it was not interesting.
 
+**Total count:** 3 on this page, 1 missing (4 total)
+
 ---
 
 ![](2009wonderland/shine.png)

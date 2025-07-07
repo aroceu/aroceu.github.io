@@ -9,6 +9,8 @@ layout: default
 
 I bought this and my current main domain in the same year, but at the time I'd wanted to use this one as my main. There are a few projects I dabbled in more extensively &mdash; notably, fanlisting collectives &mdash; before I realized it didn't interest me as much as I'd hoped it would. Still, I think my designs for them were quite good :)
 
+**Total count:** 20
+
 ---
 
 ![](2014arose/twodongs0.png)
