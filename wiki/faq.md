@@ -44,7 +44,7 @@ In essence: it's complicated, because it always is, but I like to err on the sid
 
 When it comes to webdesign, I don't care about copying (if I'm not being Single White Female'd) because that kind of individualistic value of intellectual property over aesthetics or code is something I simply don't care about. I would rather someone make a new site I can look at even if it looks the same as someone else's, because at least they're learning something. (They even may regret it in the future.) I would rather have a negative opinion about a same-y looking site than that site - and that person's interest in making the site - not exist at all. I would rather close a tab button and feel my negative feelings instead of telling people how they *should* design, what their tastes *should* be, what kind of things they *should* like, what they *should* say or do. I want to do what the fuck I want. In the same way, I want other people to do what the fuck they want.
 
-Though it's different when money's involved. But that's a different word entirely.
+Though it's another story when money's involved. But mostly because I don't even like the involvement of money in the world of creativity in the first place. 
 
 **I don't like you/how you said something/find you annoying/heard something problematic about you/[insert other negative opinion here]**
 
