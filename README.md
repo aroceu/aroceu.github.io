@@ -1,4 +1,4 @@
-[archive](archive/index.md) / [codes](codes.md) / [thoughts](thoughts/index.md) / [wiki](wiki/index.md)
+[archive](archive/index.md) / [codes](codes.md) / [thoughts](thoughts/index.md) / [docs](docs/index.md) / [wiki](wiki/index.md)
 
 ---
 
