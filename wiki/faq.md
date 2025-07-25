@@ -48,4 +48,4 @@ Though it's another story when money's involved. But mostly because I don't even
 
 **I don't like you/how you said something/find you annoying/heard something problematic about you/[insert other negative opinion here]**
 
-Get over it.
+Skill issue/get over it.
