@@ -5,33 +5,32 @@
 <hr />
 
 <h1>Notes</h1>
-<ul><li><a href="#pa">Privacy & Accessibility</a></li>
+<li><a href="#pa">Privacy & Accessibility</a></li>
 	<li><a href="#disclaimers">Disclaimers & Credits</a>
 	<li><a href="#tools">Tools</a></li>
-</ul>
 
 <h1 id="pa">Privacy & Accessibility</h1>
 
 <p>As a big believer in accessibility and privacy, I have done my best to make my websites as accessible and uninterested in visitor information as possible. This includes:</p>
 
-<ul>
+
 <li>Most of my websites working responsively for desktop, tablet, and mobile screen resolutions; or having alternative options (see <a href="#exceptions">exceptions</a>).
 <li>Not using tracking cookies for analytics.</li>
 <li>No third-party advertisements, sponsorships, corporate endorsements, or pop-ups.</li>
 <li>Using semantic HTML as much as possible for screenreaders.</li>
 <li>Night-mode option for higher contrast on select sites that contain large blocks of text and where visitor duration may be longer.</li>
 <li>Minimal use of flashing animations and GIFs.</li>
-</ul>
+
 
 <p>Additionally, my websites:</p>
 
-<ul>
+
 <li>Use javascript for same-page navigation, galleries, custom fonts, collapsible lists, and occasional smooth scrolling.</li>
 <li>Make simple use of iFrames to convey a small amount of information between separated content.</li>
 <li>Do not use any audio on webpages, auto-play or otherwise.</li>
 <li>Do not make any use of AI-generated text, images, or content.</li>
 <li>Allow little to no access for AI scraping, web crawlers, or search engines. I don't mind being shared or archived but I don't want my data to be commodified either.</li>
-</ul>
+
 
 <p>I regularly link to external websites, and sometimes in a new tab or window. If you click on a link and are unable to see a change in the webpage, be sure to check your browser's tabs or windows to see if the page has opened externally.</p>
 
@@ -41,13 +40,13 @@
 
 <p>Due to the way I like to design, a handful of webpages are knowingly not fully accessible, either because they are currently a work in progress, or because of the selective style of the webpage. This includes:</p>
 
-<ul>
+
 <li>My music subsection is built with tables so its responsive appeal is limited due to that. However, its content is still readable and contains a notice when viewing on less than optimal screen sizes.</li>
 <li>My manifesto page makes use of an animated background for visual effect without disrupting its readability. It is also compatible with reader view as an alternative.</li>
 <li>As I am someone with a strong preference for pastel colors on white, some webpages may have color contrast ratios that are not considered fully accessible. However, most of these pages would not require the visitor to read for longer than a minute or so; the sites that would require visitors to read at length (my fic and projects sections) have a night mode option with a higher contrast ratio.</li>
 <li>A number of prompt generators with cosmetic quirks may also have inaccessible color contrasts.</li>
 <li>Smaller web projects with varying visual effects may contain their own notes regarding accessibility.</li>
-</ul>
+
 
 <h1 id="disclaimers">Disclaimers & Credits</h1>
 
@@ -67,13 +66,13 @@
 
 <p>Most fonts on my websites are Google fonts, but have alternatives to achieve similar effects if Google fonts are not enabled. The main fonts I use are:</p>
 
-<ul><li>Rochester/Cookie (they look similar so I use them interchangeably depending on which one looks better) (cursive)</li>
+<li>Rochester/Cookie (they look similar so I use them interchangeably depending on which one looks better) (cursive)</li>
 <li>Inconsolata (monospace)</li>
 <li>Open Sans (sans-serif)</li>
 <li>Futura (sans-serif)</li>
 <li>Playfair Display (serif)</li>
 <li>Georgia (serif)*</li>
-</ul>
+
 
 <p><small>* not a Google font</small></p>
 
@@ -83,7 +82,7 @@
 
 <h1 id="tools">Tools</h1>
 
-<ul><li>Web Host: <a href="https://leprd.space">Leprd.space</a></li>
+<li>Web Host: <a href="https://leprd.space">Leprd.space</a></li>
 <li>Domain Host: <a href="https://porkbun.com">Porkbun</a> (formerly <a href="https://namecheap.com">Namecheap</a>)</li>
 <li>Text Editor: Virtual Studio Code (formerly <a href="https://sublimetext.com">SublimeText</a>)</li>
 <li>Photo Editor: Photoshop 2025</li>
@@ -93,16 +92,16 @@
 <li>Devices: iPhone 15 / Macbook Pro 2024 / I have a non-Mac work laptop</li>
 <li>Headphones: Razer Barracuda X headphones (pink, microphone as well), AirPod Pros, Blue Snowball iCE USB Microphone, wired headphones that I only use for work</li>
 <li>Streaming: Elgato HD60 S+, ASUS 24" LED FHD FreeSync Monitor, <a href="https://obsproject.com/">OBS</a></li>
-</ul>
+
 
 <h1>Site Information</h1>
 
-<ul><li><a href="#etymology">Etymology</a></li>
+<li><a href="#etymology">Etymology</a></li>
 		<li><a href="#domains">Domain Overview</a>
-		    <ul><li><a href="#dotcom">aroceu.com</a></li>
+		    <li><a href="#dotcom">aroceu.com</a></li>
 		    <li><a href="#kingdra">kingdra.net</a></li>
 		    <li><a href="#icirrus">icirr.us</a></li>
-		    </ul></li></ul>
+		    </li>
 
 <h1 id="etymology">Etymology</h1>
 
@@ -136,44 +135,44 @@
 <p>Sections below are divided by size.</p>
 
 <h2>fic (<a href="https://aroceu.com/fic/documentation">full documentation</a>)</h2>
-<ul>
+
 <li>Where all* of my fic is archived.</li>
 <li>Runs on WordPress, uses a good amount of plugins and a custom theme. </li>
 <li>Will have commissioned banners  one day, but for now enjoy the star pattern I made in like 5 minutes in Photoshop.</li>
 <li>Each fic has its own page and can be sorted, filtered, and searched for in a variety of ways. WIPs have a custom template, fic pages emulate AO3&#39;s readerstyle with personal flourishes, and allow you to bookmark the fic on AO3 (if you&#39;d like), a mirrored link at AO3 (if it exists), and a social media promotional post (if it exists).</li>
 <li>Additional features: A mobile menu/filter option, night mode.</li>
-</ul>
+
 <p>Includes: an about section (writer version), related works, my transformative works policy. </p>
 <p><small>* Not really, but for the purposes of this documentation the sentiment is there.</small></p>
 
 <h2>library</h2>
-<ul>
+
 <li>Where I keep track of the various forms of entertainment that I enjoy.</li>
 <li>Raw coded.</li>
 <li>Intentionally reminiscent of cutesy lightweight pixel sites with a modern spin.</li>
 <li>Features: collapsible menus, a collapsible gallery, bad color contrast, and an over-abundance of patterned backgrounds.</li>
 <li>Inspired by <a href="https://cloverso.me">Clover's</a> <a href="https://catso.neocities.org/library/">library</a>.
-</ul>
+
 <p>Includes: main library, &quot;the list&quot; (to do), favorites, log (current year).</p>
 <h2>gifts (<a href="https://aroceu.com/gifts/documentation">full documentation</a>)</h2>
-<ul>
+
     <li>A repository of the creative and largely fannish works people have made for me over the years. This includes commissions I've paid for (art), gifts from my friends and exchange events (fic and art), and my over-investment in Splatoon commissions specifically.</li>
     <li>Raw coded.</li>
     <li>A cutesy lightweight pixel site, but for real this time.</li>
     <li>Uses Lightbox for image galleries.</li>
     <li>Features: fixed sidebar, lots of decorative pixels, fun and colorful lists.</li>
-</ul>
+
 <h2>prompt generators</h2>
-<ul>
+
 <li>A hub of prompt generators coded from scratch. Free to use by the public for any creative purpose, though the original idea was for fanfiction. </li>
 <li>Raw coded.</li>
 <li>More lightweight than you&#39;d think; written primarily in PHP.</li>
 <li>Each prompt generator has a unique and fun design to represent the fandom/subject it&#39;s generating for.</li>
-</ul>
+
 <p>Notable generators: Haikyuu, MDZS, Sexy Times with Wangxian, any of the lyric generators, to Lovers (a personal favorite)</p>
 
 <h2>splatoon</h2>
-<ul>
+
     <li>My love for Splatoon in webpage format.</li>
     <li>Raw coded.</li>
     <li>Thematically pink as pink has always been my Splatoon color.</li>
@@ -181,13 +180,13 @@
     <li>The first time I tried to organize all my directories properly while making a project, not afterward.</li>
     <li>Features: fixed side navigation and additional in-page navigation on one page, an outfit gallery by weapon, and all of the Splatoon art from my gifts section plus some which weren't necessarily made with me in mind.</li>
     <li>An experiment in Javascript, for me.</li>
-</ul>
+
 <h2>smaller sections</h2>
 <h4>me</h4>
 <p>Personal identity miscellany somewhat unique to myself that I don't take very seriously but share for fun. The landing page are my personality test results because I love personality tests. Inner pages include 'pics' (picrews/dollmakers) and 'kins' (fictional characters I feel like I relate to.) Displayed as a flex box, reminiscent of a scrapbook. Inspired by <a href="https://hellomei.dev">Mei</a> and <a href="https://hillhouse.neocities.org">Rosemary's</a> about pages.</p>
 <h4>(b)log</h4>
 <p>What I'm currently up to online, in fandom, and sometimes in other areas of my life, like the real part of it. Runs on <a href="https://zonelets.net/">Zonelets</a> with a personally customized theme. A combination of small blog posts and <a href="https://nownownow.com/about">nownownow</a> updates.</p>
-</ul>
+
 <h4>projects</h4>
 <p>Creative works that aren't fanfiction or personal websites. Includes videos, fanmixes, meta/essays, and others.</p>
 <h4>music</h4>
@@ -235,23 +234,23 @@
 <p>A webring of personal sites for anyone who considers themselves in fandom. I made this webring after browsing through lists after lists myself and not finding the type of fandom webring I would be interested in. At the same time, I'd been entertaining the idea of making a webring &mdash; and then the obvious occurred to me. So now we have the fandom ring.</p>
 
 <p>Features:</p>
-<ul>
+
     <li>The <a href="">Onion Ring</a> script to manage the webring</li>
     <li>Stylization that feels both nostalgic and timeless</li>
     <li>Raw-coded</li>
     <li>First main use of wavy underline</li>
     <li>Making good use out of my paid ProtonMail account</li>
     <li>Includes: Code display example (it joined its own ring), an "about" and "ideas" page for beginners, sandpaper background texture, and washi tape looking borders</li>
-</ul>
+
 
 <h1>Addendums</h1>
 
-<ul>
+
     <li><a href="#design">Design Philosophies</a></li>
     <li><a href="#development">Development</a></li>
     <li><a href="#purpose">Personal Site Purpose</a></li>
 	<li><a href="#origins">Origins</a></li>
-</ul>
+
 	
 <h1 id="design">Design Philosophies</h1>
 
@@ -313,21 +312,21 @@
 <p>From beginning to end, here's how I go through the process of creating a website:</p>
 
 <p>First, I come up its concept &mdash; not only what it contains or what its purpose is, but its functionality as a website on the internet, or at least within my existing websites. Several questions I like to consider are:</p>
-        <ul><li>Is it going to be a smaller section contained in another, or a large section with its own subpages, or an offshoot section? This is generally determined based on where I would anticipate linking it from and to.</li> 
+        <li>Is it going to be a smaller section contained in another, or a large section with its own subpages, or an offshoot section? This is generally determined based on where I would anticipate linking it from and to.</li> 
             <li>Is it static or dynamic? How frequently will I need to update it? How can I maintain updates in the most convenient way possible for me?</li>
             <li>How does the navigation work? Will it have links to all the internal pages, or select links for logistical reasons?</li>
-            <li>Will it have any subpages? Would it be easier to maintain if it had subpages?</li></ul>
+            <li>Will it have any subpages? Would it be easier to maintain if it had subpages?</li>
             
 <p>Next is the design. This mostly starts in my head, but almost always I like to draw it out as a wireframe to get a concrete picture and leave specific notes, such as ideas for colors, fonts, interactions, and other elements. From experience, I know that not drawing my design leads me to be extremely indecisive during the coding process. I don't have a preference on my method of drawing &mdash; whether in a notebook or on a piece of cardboard (I have done this before) &mdash; but drawing a website as well as connecting its interactions with other pages has always been a part of my process.</p>
 
 <p>It's important to me that my designs are: simple, intuitively navigable, reflect an aspect of myself or an aspect of the content that I want to display on the webpage, and have a unique or fun element that may make it stand out in one's memory. I'm especially drawn to colors and elemental organization when it comes to design. Some things I keep in mind are:
 
-    <ul><li>Font usage. Fonts represent a tone or character, so it's important to think about the text's intention. For general body text, I favor both sans-serif (due to both its screen preference and more casual connotation) and monospace. I often reserve serif for flavor text.</li>
+    <li>Font usage. Fonts represent a tone or character, so it's important to think about the text's intention. For general body text, I favor both sans-serif (due to both its screen preference and more casual connotation) and monospace. I often reserve serif for flavor text.</li>
     
     <li>Padding and containment. Containment is primarily for coding purposes. But I'm also a big fan of negative space.</li>
     <li>Images. What would their purpose be? How much might they distract from the text, or would they make the text more interesting? Would they be necessary, decorative, or excessive? I tend to make more lightweight minimalistic designs, so I don't like depending on graphics.</li>
     <li>Navigation. This includes, but is not limited to: between internal pages, how I would link to the page from any of my existing websites, and the parent-child relationships between internal sections.</li>
-    </ul></p>
+    </p>
 
 <p>Then I get to coding, starting with a local file and building from there. As of March 2025 I've incorporated XAMPP into my workflow, which now hosts all of my websites and projects locally, with the exception of WordPress projects in terms of databases, but is still used to test WordPress themes. I create and make all modifications and test locally in XAMPP, typically in raw HTML, CSS, and PHP, with VS Code to help me keep track of every file within a project. (I also anticipate trying out 11ty sometime soon...we'll see!)</p> 
 
